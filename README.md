@@ -1,6 +1,6 @@
 # 🚨 Fraud Detection Dashboard – Power BI Project
 
-![Fraud Detection Dashboard](Fraud_detection.png.png)
+![Fraud Detection Dashboard](fraud/Fraud_detection.png)
 
 ## 📄 Project Overview
 
